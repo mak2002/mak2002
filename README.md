@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p>I am very interested in helping others by contributing to open source projects. I am always trying to learn something new.</p>
+
 - 🔭 I’m currently working on [Students-Results-Management-App](https://github.com/mak2002/students-results-management-app)
 
 - 🌱 I’m currently learning **Express,MySQL**
