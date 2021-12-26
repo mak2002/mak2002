@@ -3,7 +3,7 @@
 
 <p>I am very interested in helping others by contributing to open source projects. I am always trying to learn something new.</p>
 
-- 👨‍💻 All of my projects are available at [https://mayank-bondre-portfolio.netlify.app](https://mayank-bondre-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://mayank-bondre-portfolio1.netlify.app](https://mayank-bondre-portfolio1.netlify.app)
 
 - 🔭 I’m currently working on [Students-Results-Management-App](https://github.com/mak2002/students-results-management-app)
 
