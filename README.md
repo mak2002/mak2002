@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p>I am very interested in helping others by contributing to open source projects. I am always trying to learn something new.</p>
+
+#### My Google Summer of Code (GSoC) work summary can be found [here](https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215).
 
 - 👨‍💻 All of my projects are available at [https://mayank-bondre-portfolio1.netlify.app](https://mayank-bondre-portfolio1.netlify.app)
 
