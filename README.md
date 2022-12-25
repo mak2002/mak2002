@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p>I am very interested in helping others by contributing to open source projects. I am always trying to learn something new.</p>
 
