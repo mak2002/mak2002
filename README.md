@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p>I am very interested in helping others by contributing to open source projects. I am always trying to learn something new.</p>
+<p>I am passionate about helping others and making a positive impact through my contributions to open source projects. I am constantly striving to learn and grow, both personally and professionally.</p>
 
 ## My Google Summer of Code (GSoC) work summary can be found [here](https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215).
 
