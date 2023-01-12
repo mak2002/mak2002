@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mayank-bondre-portfolio1.netlify.app](https://mayank-bondre-portfolio1.netlify.app)
 
-- 🔭 I’m currently working on [Stackoveflow Clone](https://github.com/mak2002/stackoverflow-clone-1)
+- 🔭 I’m currently working on [Stackoveflow Clone](https://github.com/mak2002/StackOverflow-Clone)
 
 - 🌱 I’m currently learning **Express,MySQL**
 
