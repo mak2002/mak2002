@@ -3,15 +3,23 @@
 
 <p>I am passionate about helping others and making a positive impact through my contributions to open source projects. I am constantly striving to learn and grow, both personally and professionally.</p>
 
-## My Google Summer of Code (GSoC) work summary can be found [here](https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215).
+## :star: My Google Summer of Code (GSoC) work summary can be found [here](https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215).
 
 - 👨‍💻 All of my projects are available at [https://mayank-bondre-portfolio1.netlify.app](https://mayank-bondre-portfolio1.netlify.app)
 
 - 🔭 I’m currently working on [DevQnA](https://github.com/mak2002/StackOverflow-Clone)
 
-- 🌱 I’m currently learning **Express,MySQL**
+- 🌱 I’m currently learning **Cloud Native**
 
-- 📫 How to reach me **makbond0902@gmail.com**
+## 📚 Tech Articles
+- [Typing the routes: TanStack Router](https://mayank-bondre.hashnode.dev/typing-the-routes-tanstack-router)
+- [Maximizing Your Selection Chances for Google Summer of Code 2023](https://mayank-bondre.hashnode.dev/maximizing-your-selection-chances-for-google-summer-of-code-2023-insights-from-a-gsoc-22-contributor)
+- [2022 Wrap Up](https://mayank-bondre.hashnode.dev/a-happening-year-2022-wrap-up)
+
+## 📫 How to reach me 
+- [Email](mailto:makbond0902@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mayank-bondre-11a522223/)
+- [Twitter](https://twitter.com/MayankBondre)
 
 
 <h3 align="left">Languages and Tools:</h3>
