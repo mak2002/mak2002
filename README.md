@@ -5,11 +5,6 @@
 
 ## :star: My Google Summer of Code (GSoC) work summary can be found [here](https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215).
 
-- 👨‍💻 All of my projects are available at [https://mayank-bondre-portfolio1.netlify.app](https://mayank-bondre-portfolio1.netlify.app)
-
-- 🔭 I’m currently working on [DevQnA](https://github.com/mak2002/StackOverflow-Clone)
-
-- 🌱 I’m currently learning **Cloud Native**
 
 ## :computer: Projects
 
@@ -18,6 +13,7 @@
 | [DevQnA](https://github.com/mak2002/DevQnA) | React(TypeScript), TailwindCSS, ExpressJS, Sequelize, PostgreSQL, Firebase | Full Stack Stackoverflow Clone |
 | [EveTrade](https://github.com/mak2002/EveTrade) | Python, Pandas | App to test trading strategies by simulating real market events. |
 | [Resultify](https://github.com/mak2002/Resultify) | ReactJS, Chart.js, ExpressJS, PostgreSQL, Firebase, Material UI | Manages Student's exam results and helps them in visualizing. |
+| [Editor Font Size Plugin](https://github.com/mak2002/joplin-font-size-shortcut/) | TypeScript, CSS | Implemented keyboard shortcut for editor font size for [Joplin](https://github.com/mak2002/joplin/tree/dev). **100+ user downloads** |
 
 
 ## 📚 Tech Articles
