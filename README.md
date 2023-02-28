@@ -11,6 +11,15 @@
 
 - 🌱 I’m currently learning **Cloud Native**
 
+## :computer: Projects
+
+| Project Name | Skills | Description |
+| --- | --- | --- |
+| [DevQnA](https://github.com/mak2002/DevQnA) | React(TypeScript), TailwindCSS, ExpressJS, Sequelize, PostgreSQL, Firebase | Full Stack Stackoverflow Clone |
+| [EveTrade](https://github.com/mak2002/EveTrade) | Python, Pandas | App to test trading strategies by simulating real market events. |
+| [Resultify](https://github.com/mak2002/Resultify) | ReactJS, Chart.js, ExpressJS, PostgreSQL, Firebase, Material UI | Manages Student's exam results and helps them in visualizing. |
+
+
 ## 📚 Tech Articles
 - [Typing the routes: TanStack Router](https://mayank-bondre.hashnode.dev/typing-the-routes-tanstack-router)
 - [Maximizing Your Selection Chances for Google Summer of Code 2023](https://mayank-bondre.hashnode.dev/maximizing-your-selection-chances-for-google-summer-of-code-2023-insights-from-a-gsoc-22-contributor)
