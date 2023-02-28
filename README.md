@@ -3,8 +3,12 @@
 
 <p>I am passionate about helping others and making a positive impact through my contributions to open source projects. I am constantly striving to learn and grow, both personally and professionally.</p>
 
-## :star: My Google Summer of Code (GSoC) work summary can be found [here](https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215).
 
+## 🏢 Work Experience
+
+| Company/Organization | Designation | Duration | Skills | Work |
+| --- | --- | --- | --- | --- |
+| [Joplin](https://github.com/mak2002/joplin/tree/dev) | Google Summer of Code 2022 contributor | June - Sep 2022 | TypeScript, React, Jest | [Work Summary](https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215) |
 
 ## :computer: Projects
 
