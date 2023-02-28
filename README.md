@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">Open Source Enthusiast from India</h3>
 
-- ### :globe_with_meridians: Full Stack Developer
-- ### :seedling: Constantly striving to learn and grow
+## 👨‍💻 About Me
+
+- #### :globe_with_meridians: Full Stack Developer
+- #### :mortar_board: Computer Science Student
+- #### :seedling: Constantly striving to learn and grow
 
 ## Technology Stack
 
-### Front-End:
+- ### Front-End:
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=ffffff)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](#)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-3776AB?style=flat-square&logo=react&logoColor=ffffff)](#)
@@ -15,7 +18,7 @@
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-3776AB?style=flat-square&logo=tailwindcss&logoColor=ffffff)](#)
 
 
-### Back-End:
+- ### Back-End:
 [![NodeJS](https://img.shields.io/badge/-NodeJS-4479A1?style=flat-square&logo=nodejs&logoColor=ffffff)](#)
 [![ExpressJS](https://img.shields.io/badge/-ExpressJS-3776AB?style=flat-square&logo=ExpressJS&logoColor=ffffff)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](#)
