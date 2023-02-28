@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Open Source Enthusiast from India</h3>
 
-<p>I am passionate about helping others and making a positive impact through my contributions to open source projects. I am constantly striving to learn and grow, both personally and professionally.</p>
+- ### :globe_with_meridians: Full Stack Developer
+- ### :seedling: Constantly striving to learn and grow
 
 
 ## 🏢 Work Experience
@@ -26,9 +27,10 @@
 - [2022 Wrap Up](https://mayank-bondre.hashnode.dev/a-happening-year-2022-wrap-up)
 
 ## 📫 How to reach me 
-- [Email](mailto:makbond0902@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mayank-bondre-11a522223/)
-- [Twitter](https://twitter.com/MayankBondre)
+
+<a target="_blank" href="https://www.linkedin.com/in/mayank-bondre-11a522223/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:makbond0902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/MayankBondre"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
