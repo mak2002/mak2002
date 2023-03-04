@@ -25,7 +25,7 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](#)
 
 
-## 🏢 Work Experience
+## 🏢 Open Source/Work Experience
 
 | Company/Organization | Designation | Duration | Skills | Work |
 | --- | --- | --- | --- | --- |
