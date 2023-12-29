@@ -29,7 +29,9 @@
 
 | Company/Organization | Designation | Duration | Skills | Work |
 | --- | --- | --- | --- | --- |
+| [Hyperledger Fabric Mentorship - Mentee](https://www.hyperledger.org/projects/fabric) | Hyperledger Mentorship Mentee | June - Nov 2023 | Python, Logstash, Hyperledger Fabric, Docker | [Work Summary](https://wiki.hyperledger.org/display/INTERN/Deliverables+and+Learnings+-+One-stop-shop+Hyperledger+Fabric+performance+analysis+with+Hyperledger+Caliper) |
 | [Joplin](https://github.com/mak2002/joplin/tree/dev) | Google Summer of Code 2022 contributor | June - Sep 2022 | TypeScript, React, Jest | [Work Summary](https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215) |
+
 
 ## :computer: Projects
 
